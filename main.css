@@ -1,0 +1,412 @@
+* {
+	padding: 0;
+	margin: 0 auto;
+	max-width: 1346px
+}
+body{
+	font: 400 14px/1.5 'Hind', sans-serif;
+	
+}
+a{
+	text-decoration: none;
+	color : #2e2e2e;
+}
+a:hover{
+	color: #bd2631;
+}
+li {
+	list-style: none;
+}
+.top{
+	background-color: #ededed;
+	width: 100%;
+	height: 60px;
+}
+.ss {
+	float: left;
+	margin-left: 139px;
+}
+.city{
+	float: left;
+	background-color: #212121;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	margin: 10px 35px 0 0;
+	border-radius: 3px;
+}
+.one{
+	float: left;
+	margin: 20px 35px 0 0;
+}
+.social_link {
+	float: right;
+	margin-right: 140px;
+}
+.social_link li {
+	float: left;
+	
+	margin-left: 23px;
+}
+.city_option{
+	color: white;
+	background-color: #212121;
+	border-width: 0;
+}
+.logo {
+	margin: 30px 0 0 130px; 
+}
+.subtitle {
+	float: right;
+}
+.subtitle li {
+	float: left;
+}
+.fat {
+	font-weight: 600;
+}
+.hudoi {
+	color: #7a7a7a
+}
+.under_top{
+	height: 141px;
+}
+.subtitle{
+	float: right;
+	margin-right: 129px;
+}
+.subtitle li{
+	margin-top: 50px;
+}
+.text_galochka{
+	margin-right: 23px;
+}
+.galochka{
+	margin-right: 13px;
+}
+.third_line{
+	position: absolute;
+	width: 100%;
+	height: 72px;
+	background-color: black;
+	font: 400 14px 'Hind', bold;
+	opacity: 0.9;
+	top: 200px;
+}
+.menu{
+	float: left;
+	margin-left: 122px;
+}
+.menu a{
+	color: white;
+}
+.menu li{
+	display: inline-block;
+	padding: 30px 21px 0 21px;
+}
+.menu li:hover {
+	border-bottom:7px solid #dd2631; 
+	padding-bottom: 14px;
+}
+.search_icon{
+	color: white;
+	float: right;
+	margin:26px 146px 0 0;
+	font-size: 17px;
+}
+.search_icon a{
+	color: white;
+}
+.four_line {
+	background-color: black;
+	height: 636px;
+}
+.lifotext {
+	position: absolute;
+	margin: 217px 0 0 121px;
+	
+}
+.lifotext p {
+	font: 'Hind', bold;
+}
+.lifotext p:first-child {
+	font-size: 32px;
+	color: #bd2631;
+}
+.lifotext p:last-child {
+	color: white;
+	font-size: 24px;
+}
+.lifotext p:nth-child(2) {
+	font-size: 44px;
+	color: white;
+}
+.arrow_1{
+	position: absolute;
+	color: white;
+	font-size: 50px;
+	top: 490px;
+	left: 17px;
+}
+.arrow_2{
+	position: absolute;
+	color: white;
+	font-size: 50px;
+	top: 490px;
+	right: 17px;
+}
+.bgimg1{
+	float: right;
+ 	}
+.five_line{
+	width: 100%;
+	height: 129px;
+	background-color: #bd2631;
+}
+.lifitext {
+	color: white;
+	float: left;
+}
+.lifitext p:first-child {
+	font: 400 30px/17px 'Hind', bold;
+	margin: 35px 0 0 134px;
+}
+.lifitext p:last-of-type{
+	font: 400 24px 'Hind', bold;
+	margin: 0 0 0 134px;
+}
+.buttom{
+	float: right;
+	font: 600 14px 'Hind', bold;
+	margin: 39px 130px 0 0;
+	padding: 18px 30px 18px 30px;
+	background-color: white;
+	border-radius: 4px;
+}
+.buttom a:hover {
+	color: black;
+}
+.six_line{
+	height: 453px;
+	width: 100%;
+}
+.six_line img {
+	float: left;
+}
+.six_line img:nth-child(1){
+	width: 710px;
+	height: 453px;
+}
+.six_line img:nth-child(2){
+	width: 357px;
+	height: 453px;
+}
+.six_line img:last-child {
+	padding: 170px 0 174px 90px;
+}
+.six_line p:first-child {
+	position: absolute;
+	top: 1140px;
+	left: 100px;
+	color: #bd2631;
+	font: 600 30px 'Hind', bold;
+}
+.six_line p:nth-child(2) {
+	position: absolute;
+	top: 1200px;
+	left: 100px;
+	color: white;
+	font: 400 14px 'Hind', bold;
+}
+.seven_line{
+	height: 450px;
+	width: 100%;
+}
+.seven_line img {
+	float: left;
+}
+.seven_line img:nth-child(2) {
+	padding: 147px 100px 148px 100px;
+}
+.seven_line img:nth-child(1){
+	width: 357px;
+	height: 450px;
+}
+.seven_line img:nth-child(3){
+	width: 632px;
+	height: 450px;
+}
+.seven_line p:first-child {
+	position: absolute;
+	top: 1581px;
+	right: 100px;
+	color: #bd2631;
+	font: 600 30px 'Hind', bold;
+}
+.qq {
+	position: absolute;
+	top: 1650px;
+	left: 810px;
+	color: white;
+	font: 400 14px 'Hind', bold;
+}
+.ww{
+	position: absolute;
+	top: 1650px;
+	left: 810px;
+	color: white;
+	font: 400 14px 'Hind', bold;
+
+}
+.eight_line {
+	height: 453px;
+	width: 100%;
+	
+}
+.eight_line img {
+	float: left;
+}
+.wtf  {
+	padding: 160px 87px 159px 88px;
+	background-color: #bd2631;
+}
+.qqq {
+	position: absolute;
+	top: 2035px;
+	left: 100px;
+	color: #bd2631;
+	font: 600 30px 'Hind', bold;
+}
+.www {
+	position: absolute;
+	top: 2105px;
+	left: 100px;
+	color: white;
+	font: 400 14px 'Hind', bold;
+}
+.linenine {
+    height: 462px;
+}
+
+.linenine li {
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+    margin: 68px 0 0 0;
+    font-size: 18px;
+    vertical-align: top;
+}
+
+
+.linenine li p:nth-child(2n) {
+    font-size: 36px;
+    color: #bd2631;
+    text-transform: uppercase;
+}
+.safe {
+    margin-top: 2008px;
+}
+.lineten {
+    height: 195px;
+    background-color: black;
+}
+.l10img1 {
+    float: left;
+    margin: 56px 0 0 270px;
+}
+.l10img2 {
+    float: right;
+}
+.lineeleven {
+    height: 352px;
+}
+.l11img1, .l11img2, .l11img3, .l11img4, .l11img5 {
+    float: left;
+    width: 20%;
+    height: 352px;
+}
+.linetwelve {
+    height: 73px;
+    background-color: #bd2631;
+    color: #ddc98e;
+}
+.linetwelve li {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 18px;
+    width: 19.7%;
+    text-align: center;
+    margin-top: 25px;
+}
+.linethirteen {
+    height:200px;
+}
+.l13imgs {
+	width: 80%;I
+	text-align: center;
+	margin-top: 64px;
+}
+.l13imgs li {
+     display: inline-block;
+  	 width: 19.7%;
+  	 text-align: center;
+}
+.linefifteen {
+    height:381px;
+    background-color: #242424;
+}
+.linefifteen ul {
+    margin: 69px 0 0 149px;
+}
+.linefifteen ul li {
+    display: inline-block;
+    width:223px;
+    font-size: 12px;
+    color: #ffffff;
+    border-right: solid 1px;
+    border-color: #7a7a7a;
+    padding-right: 26px;
+    margin-right: 36px;
+    height: 262px;
+    vertical-align: top;
+
+}
+.linefifteen ul li:last-of-type {
+    border-right: none;
+}
+.nom {
+    margin-bottom: 0px;
+}
+.red {
+    color: #bd2631;
+
+}
+.header {
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+}
+.nom  {
+    margin: 0px;
+}
+.m  {
+    margin-bottom: 10px;
+}
+.nom p {
+    margin: 0px;
+}
+.linesixteen {
+    height:83px;
+    background-color: #131313;
+    color: #ffffff;
+}
+.linesixteen p:first-child {
+    float: left;
+    margin: 33px 0 0 149px ;
+}
+.linesixteen p:last-of-type {
+    float: right;
+    margin: 33px 156px 0 0;
+}
+.lineseventeen {
+    height: 24px;
+}
